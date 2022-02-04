@@ -18,6 +18,6 @@ require (
 	google.golang.org/appengine v1.5.0 // indirect
 	gopkg.in/fsnotify.v1 v1.4.7 // indirect
 	gopkg.in/tomb.v1 v1.0.0-20141024135613-dd632973f1e7 // indirect
-	gopkg.in/yaml.v2 v2.2.2
+	gopkg.in/yaml.v2 v2.2.8
 	layeh.com/radius v0.0.0-20190322222518-890bc1058917
 )
